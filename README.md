@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Bhumika Mane
 
-<!--
-**bhumika0510/bhumika0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### TYBCA Student | Java Developer | Web & Android Developer
 
-Here are some ideas to get you started:
+I am a third-year BCA student interested in software development and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I work with Java, SQL, JDBC and MySQL.  
+📱 I have built Android applications using Java, XML and SQLite.  
+🌐 I have also developed web applications using JSP, JDBC and MySQL.  
+🌱 Currently learning Spring Boot and REST APIs.  
+🎯 Looking for opportunities to learn, build and grow as a software developer.
+
+### 🛠️ Skills
+
+- Java
+- C / C++
+- SQL / MySQL
+- JDBC
+- JSP
+- Android Development
+- SQLite
+- HTML / CSS
+- Spring Boot (Learning)
+- REST APIs (Learning)
+
+### 📂 Projects
+
+- SafeHer – Android personal safety application
+- Student Management System – JSP, JDBC & MySQL
+- What Next App – JSP, JDBC & MySQL
+- BMI Calculator
+- Time Converter – JSP
+
+### 📫 Connect with me
+
+- LinkedIn: (https://www.linkedin.com/in/bhumika-mane-3aa8a3344?utm_source=share_via&utm_content=profile&utm_medium=member_android)
